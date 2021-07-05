@@ -1,0 +1,4 @@
+#Sun Jul 04 10:00:55 CST 2021
+base.0=/Users/wry/Desktop/移动程序开发/Andriod App/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

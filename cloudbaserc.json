@@ -1,0 +1,12 @@
+{
+    "envId": "hello-cloudbase-7g6w8rh3bee09081",
+    "version": "2.0",
+    "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
+    "functionRoot": "./functions",
+    "functions": [],
+    "region": "ap-shanghai",
+    "framework": {
+        "name": "zjculture-app",
+        "plugins": {}
+    }
+}
